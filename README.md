@@ -1,16 +1,13 @@
-## Hi there 👋
+# Owen
 
-<!--
-**Ownwn/Ownwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student interested in FOSS, cybersecurity and AI. 
 
-Here are some ideas to get you started:
+I'm skilled in Java, Kotlin and Javascript, and am currently learning Typescript and C++. I've recently learnt React, and have rewritten [Personal Site](https://github.com/Ownwn/PersonalSite) in it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My other projects include:
+- [Class Question App](https://github.com/Ownwn/class-question-app) - a WIP recreation of GoSoapBox, a now shut-down Q&A tool for student engagement and learning
+- [Owen's Mod](https://github.com/Ownwn/OwnwnAddons) - a Minecraft mod that adds a collection of quality-of-life features to the game, designed for a niche gamemode.
+
+I love keeping up to date with the latest trends and developments in software and the web.
+
+You can contact me at my personal email, or at _owen at ownwn dot com_
