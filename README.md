@@ -1,6 +1,6 @@
 # Owen
 
-I'm a second-year student interested in FOSS, cybersecurity and AI. 
+I'm a second-year student interested in FOSS, cybersecurity and general tech.
 
 I'm skilled in Java, Kotlin and Javascript, and am currently learning Typescript and C++. I've recently learnt React, and have rewritten [Personal Site](https://github.com/Ownwn/PersonalSite) in it.
 
