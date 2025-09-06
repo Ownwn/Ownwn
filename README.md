@@ -2,12 +2,14 @@
 
 I'm a second-year student interested in FOSS, cybersecurity and general tech.
 
-I'm skilled in Java, Kotlin and Javascript, and am currently learning Typescript and C++. I've recently learnt React, and have rewritten [Personal Site](https://github.com/Ownwn/PersonalSite) in it.
+I'm skilled in Java, Kotlin and Javascript, and am currently learning C++. I've recently learnt React, and have rewritten [Personal Site](https://github.com/Ownwn/PersonalSite) in it.
 
 My other projects include:
 - [Class Question App](https://github.com/Ownwn/class-question-app) - a WIP recreation of GoSoapBox, a now shut-down Q&A tool for student engagement and learning.
 - [Owen's Mod](https://github.com/Ownwn/OwnwnAddons) - a Minecraft mod that adds a collection of quality-of-life features to the game, designed for a niche gamemode.
 - [DiaryParser](https://github.com/Ownwn/DiaryParser) - A parser and data visualiser for my [Obsidian](https://obsidian.md) daily notes.
+- [WindowsFileHelper](https://github.com/Ownwn/WindowsFileHelper) - A Java Swing program with utility functions for working with files in Windows
+  
 
 ---
 
